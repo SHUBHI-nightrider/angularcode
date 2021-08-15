@@ -1,2 +1,6 @@
-# angularcode
-These repository contain all angular Code that done by me
+#include<stdio.h>
+int main()
+{
+print("hello");
+return 0;
+}
